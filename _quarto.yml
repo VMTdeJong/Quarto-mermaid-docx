@@ -1,0 +1,17 @@
+project:
+  type: book
+
+book:
+  title: "Mermaid docx pdf test"
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  docx: default
+    
+editor: source
+
