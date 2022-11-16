@@ -23,3 +23,5 @@ Version running:
 - Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 The obvious solution for me is not to use the Render All Formats option. But it took me way too long to find out, so I thought this may be helpful to know.
+
+https://github.com/quarto-dev/quarto-cli/issues/3066
